@@ -1,2 +1,18 @@
 # Predictive-Modeling-Using-Machine-Learning
-Build a model to predict outcomes based on given data.  Key Features: Apply algorithms like Linear Regression, Decision Trees, or Random Forest Train and test models for accuracy Visualize performance using confusion matrices or ROC curves Expected Outcome: Gain experience in supervised learning and model evaluation
+## Objective
+Predict student final grades using machine learning algorithms.
+
+## Dataset
+Student Performance Dataset
+
+## Algorithms Used
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+
+## Evaluation
+- R2 Score
+- Mean Absolute Error
+
+## Result
+Random Forest achieved the best prediction performance
